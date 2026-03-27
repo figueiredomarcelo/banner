@@ -1,0 +1,16 @@
+{
+  "name": "banner",
+	"type": "module",
+  "version": "2.0.0",
+  "description": "",
+  "main": "banner.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "senza-sdk": "^4.4.10"
+  }
+}
